@@ -1,5 +1,5 @@
 ### Hello!
-My name is Nathan Logston. I am a recent graduate, achieving my Bachelors in Aerospace Engineering from Iowa State!
+My name is Nathan. I am a recent graduate, achieving my Bachelors in Aerospace Engineering from Iowa State!
 
 A lot of my projects involve microcontrollers to do any number of random things that I'm working on, from raspberry pi's to esp8266 breakouts! I run several different servers for these projects as well, including my storage server I keep active 24/7. 
 
